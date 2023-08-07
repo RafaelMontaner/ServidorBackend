@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "code": "P001",
+    "price": 10.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónica",
+    "thumbnails": [
+      "path/imagen1.jpg",
+      "path/imagen2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "code": "P002",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "path/imagen3.jpg",
+      "path/imagen4.jpg"
+    ]
+  },
+  {
+    "id": "ycqtoh7ea"
+  },
+  {
+    "id": "jkmimovw2"
+  },
+  {
+    "id": "qx70dkq8l",
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "path/imagen5.jpg"
+    ]
+  }
+]
